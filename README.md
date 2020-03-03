@@ -1,11 +1,11 @@
+This program will automatically apply you to jobs on LinkedIn that has the
+"Easy Apply" feature.
+
 to run:
  - download chromedriver, unzip, move to `/usr/local/bin` (mac os / linux)
  - `pip install selenium`
  - update info.py with the necessary info
  - once everything is ready to go, run it with 'python .\linkedin-bot.py
-
-This program will automatically apply you to jobs on LinkedIn that has the
-"Easy Apply" feature.
 
 ATTEMPT AT YOUR OWN RISK!!!!!
 Anything that happens including getting your account banned, 
