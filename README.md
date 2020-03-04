@@ -5,7 +5,7 @@ to run:
  - download chromedriver, unzip, move to `/usr/local/bin` (mac os / linux)
  - `pip install selenium`
  - update info.py with the necessary info
- - once everything is ready to go, run it with 'python .\linkedin-bot.py
+ - once everything is ready to go, run it with `python .\linkedin-bot.py`
 
 ATTEMPT AT YOUR OWN RISK!!!!!
 Anything that happens including getting your account banned, 
